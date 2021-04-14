@@ -1,3 +1,8 @@
+- [Home](/Syringe-Pump-3890/index)
+- **[Mechanical](/Syringe-Pump-3890/mechanical)**
+- [Electrical](/Syringe-Pump-3890/electrical)
+- [Code](/Syringe-Pump-3890/code)
+
 # Mechanical Assembly for Syringe Pump
 
 ## Bill of Materials
