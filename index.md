@@ -1,7 +1,11 @@
 # How to Build a Syringe Pump
 
-See mechanical page [here](/Syringe-Pump-3890/mechanical)
+- **[Home](/Syringe-Pump-3890/index)**
+- [Mechanical](/Syringe-Pump-3890/mechanical)
+- [Electrical](/Syringe-Pump-3890/electrical)
+- [Code](/Syringe-Pump-3890/code)
 
-See electrical page [here](/Syringe-Pump-3890/electrical)
+Specifications of the syringe pump.
 
-See code page [here](/Syringe-Pump-3890/code)
+Reasons why you should build and program your own pump.
+
