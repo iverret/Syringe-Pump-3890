@@ -1,3 +1,8 @@
+- [Home](/Syringe-Pump-3890/index)
+- [Mechanical](/Syringe-Pump-3890/mechanical)
+- [Electrical](/Syringe-Pump-3890/electrical)
+- **[Code](/Syringe-Pump-3890/code)**
+
 # Arduino Code for Syringe Pump
 
 Below is code that works for the Arduino Uno and Mega, copy and paste into the Arduino IDE.
