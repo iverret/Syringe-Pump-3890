@@ -11,6 +11,13 @@ Item | Quantity
 ------------ | -------------
 [Aluminum Extrusion (1 ft)](https://www.mcmaster.com/47065T107-47065T418/)| 1
 [Linear Bearing - 8mm](https://www.mcmaster.com/61205K75/) | 1
+[Threaded Rod - 8mm](https://www.mcmaster.com/1078N32/) | 1
+[Linear Rod - 8mm](https://www.mcmaster.com/6112K44/) | 1
+[M8 Hex Nut](https://www.mcmaster.com/90592A022/) | 1
+[T Nut and Bolt](https://www.mcmaster.com/61205K75/) | 6
+[NEMA 17 Stepper Motor](https://www.mcmaster.com/6627T25/) | 1
+Syringe - 21.5mm External Diameter, 110.2mm Total Length | 1
+PLA Filament for 3D Printed Components | Quantity Depends on Print Settings
 
 
 ## Fusion 360 Model
