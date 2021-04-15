@@ -5,4 +5,6 @@
 
 # Electrical Wiring of Syringe Pump
 
-![Electrical Diagram for Syringe Pump](/Syringe-Pump-3890/assets/pump-photo-1.jpg)
+![Electrical Diagram for Syringe Pump](/Syringe-Pump-3890/assets/syringe-pump-electrical-schematic-1.jpg)
+
+![Photo of Pump Wiring](/Syringe-Pump-3890/assets/pump-photo-1.jpg)
