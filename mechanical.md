@@ -16,7 +16,7 @@ Item | Quantity
 [M8 Hex Nut](https://www.mcmaster.com/90592A022/) | 1
 [T Nut and Bolt](https://www.mcmaster.com/61205K75/) | 6
 [NEMA 17 Stepper Motor](https://www.mcmaster.com/6627T25/) | 1
-Syringe - 21.5mm External Diameter, 110.2mm Total Length | 1
+![Syringe - 21.5mm External Diameter, 110.2mm Total Length](/Syringe-Pump-3890/assets/syringe-dimensioned-drawing.png/) | 1
 PLA Filament for 3D Printed Components | Quantity Depends on Print Settings
 
 
